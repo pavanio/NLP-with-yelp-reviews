@@ -8,8 +8,6 @@ If you are brand new to scikit learn then you should check his video [series](ht
 If you are new to pandas you should definitely checkout [this](https://www.youtube.com/watch?v=5JnMutdy6Fw) great talk given Brandon Rhodes in Pycon 2015 which gives a excellent introduction to pandas in a very intuitive way along with lots of exercises and if you are still hungry to take more you can always check [pandas](https://pandas.pydata.org/pandas-docs/stable/) official docs which has excellent documentation with lots and lots of examples.
 
 
-If you unable to view the notebook I provided the html version of it.
-
 The packages which you will need to use the notebook are:
 
 scikit-learn,pandas and obviously python 3
