@@ -1,7 +1,7 @@
 # NLP with yelp reviews
 
 
-Getting Started with text in machine learning using scikit-learn.This repository consists of solution to the yelp reviews exercise which was prepared by kevin markham during his talk at Pycon 2016.In that talk he gives a friendly introduction to NLP using scikit-learn you can check his [talk] (https://www.youtube.com/watch?v=WHocRqT-KkU).
+Getting Started with text in machine learning using scikit-learn.This repository consists of solution to the yelp reviews exercise which was prepared by kevin markham during his talk at Pycon 2016.In that talk he gives a friendly introduction to NLP using scikit-learn you can check his [talk](https://www.youtube.com/watch?v=WHocRqT-KkU).
 
 If you are brand new to scikit learn then you should check his video [series](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) in which he goes through the scikit-learn package in clear and concise way along with tons of references to move forward.
 
